@@ -1,3 +1,16 @@
+
+
+#my ignores
+input/
+models/
+
+*.csv
+*.h5
+*.pkl
+*.pth
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
