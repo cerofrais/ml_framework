@@ -28,3 +28,4 @@ Building this inreference to the video tutorial by kaggle grandd master Mr. Abhi
 ## Notes : 
     1. Get all the files and folderstructure set up as in first commit.
     2. Get some data from kaggle and get k-folds for cross validation.
+    3. Training
